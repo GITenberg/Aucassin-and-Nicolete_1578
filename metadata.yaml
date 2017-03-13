@@ -1,5 +1,5 @@
 _repo: Aucassin-and-Nicolete_1578
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lang, Andrew
@@ -9,9 +9,14 @@ contributor:
     gutenberg_agent_id: '79'
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: "Aucassin et Nicolette (12th or 13th century) is an anonymous medieval\
   \ French chantefable, or combination of prose and verse (literally, a \"sung story\"\
   , similar to a prosimetrum).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1578#Aucassin-and-Nicolete
 gutenberg_issued: '1998-12-01'
 gutenberg_type: Text
 identifiers:
